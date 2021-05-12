@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel33" alt="shubhampatel33" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shubham_patel21" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_patel21?logo=twitter&style=for-the-badge" alt="shubham_patel21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shubham_patel33" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_patel33?logo=twitter&style=for-the-badge" alt="shubham_patel33" /></a> </p>
 
 <img align = "right" width = "400" src="https://cdn.dribbble.com/users/40367/screenshots/14692007/media/8da51342cf18aa134b80c6c99934ba4c.mp4" alt="shubhampatel33"/>
 
