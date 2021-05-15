@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham_patel21" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_patel21?logo=twitter&style=for-the-badge" alt="shubham_patel21" /></a> </p>
 
-<img src="https://cdn.dribbble.com/users/40367/screenshots/14692007/media/8da51342cf18aa134b80c6c99934ba4c.mp4" align = "right" width = "400" height="500"  alt="shubhampatel33"/>
+<img src="https://github.com/ShubhamPatel33/ShubhamPatel33/blob/main/man_breaking.mp4" align = "right" width = "400" height="500"  alt="shubhampatel33"/>
 
 - 🌱 I’m currently learning **Python**
 
