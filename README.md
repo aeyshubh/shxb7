@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/shubham_patel21" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_patel21?logo=twitter&style=for-the-badge" alt="shubham_patel21" /></a> </p>
 
 <img src="https://github.com/ShubhamPatel33/ShubhamPatel33/blob/main/man_breaking.mp4" align = "right" width = "400" height="500"  alt="shubhampatel33"/>
+![Man](https://github.com/ShubhamPatel33/ShubhamPatel33/blob/main/man_breaking.webp)
 
 - 🌱 I’m currently learning **Python**
 
