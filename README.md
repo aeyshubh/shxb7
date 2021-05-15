@@ -9,8 +9,6 @@
 
 <img src="https://cdn.dribbble.com/users/40367/screenshots/14692007/media/8da51342cf18aa134b80c6c99934ba4c.mp4" align = "right" width = "400" height="500"  alt="shubhampatel33"/>
 
-<p aligh="right" > <a href="https://cdn.dribbble.com/users/40367/screenshots/14692007/media/8da51342cf18aa134b80c6c99934ba4c.mp4" ></a></p>
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPatel33](https://github.com/ShubhamPatel33)
