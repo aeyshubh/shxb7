@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel33" alt="shubhampatel33" /></a> </p>
 
-<img align="right" src = "https://cdn.dribbble.com/users/2852423/screenshots/6764233/dda01518887899.562d10a885c40.jpg" width ="300"></img>
+<img align="right" src = "https://cdn.dribbble.com/users/2852423/screenshots/6764233/dda01518887899.562d10a885c40.jpg" width ="400"></img>
 
 - 🌱 I’m currently learning **Python**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shubhamashishpatel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JGhwuy8AoRNYermUExGGnSDmt8fO7x-_/view?usp=sharing](https://drive.google.com/file/d/1JGhwuy8AoRNYermUExGGnSDmt8fO7x-_/view?usp=sharing)
+- 📄 Hackathon team : Straw Hat coders 
 
 - ⚡ Fun fact **A Good person by heart,love dogs and watching movies.**
 
