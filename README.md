@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel33" alt="shubhampatel33" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shubham_patel21" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_patel21?logo=twitter&style=for-the-badge" alt="shubham_patel21" /></a> </p>
-
-<img src="https://github.com/ShubhamPatel33/ShubhamPatel33/blob/main/man_breaking.mp4" align = "right" width = "400" height="500"  alt="shubhampatel33"/>
-![Man](https://github.com/ShubhamPatel33/ShubhamPatel33/blob/main/man_breaking.webp)
+<img align="right" src = "https://cdn.dribbble.com/users/2852423/screenshots/6764233/dda01518887899.562d10a885c40.jpg" width ="300"></img>
 
 - 🌱 I’m currently learning **Python**
 
