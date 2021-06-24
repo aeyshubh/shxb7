@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshub21" alt="devshub21" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/devshub21" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/devshub21?logo=twitter&style=for-the-badge" alt="https://twitter.com/devshub21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devshub21" target="blank"><img src="https://img.shields.io/twitter/follow/devshub21?logo=twitter&style=for-the-badge" alt="devshub21" /></a> </p>
 
 - 🔭 I’m currently working on [Top Secret](un-disclosable)
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/devshub21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/devshub21" height="30" width="40" /></a>
+<a href="https://twitter.com/devshub21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devshub21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-patel-88978217b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-patel-88978217b/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/devshub21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/devshub21/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucurw_upgyqmtkq3xys0-d8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucurw_upgyqmtkq3xys0-d8a" height="30" width="40" /></a>
@@ -38,6 +38,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devshub21"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devshub21" /></a></p><br><br>
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devshub21&show_icons=true&locale=en&layout=compact" alt="devshub21" /></p>
 
