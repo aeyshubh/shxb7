@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/devshub21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devshub21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-patel-88978217b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-patel-88978217b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/devshub21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/devshub21/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shxb.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shxb.__/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucurw_upgyqmtkq3xys0-d8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucurw_upgyqmtkq3xys0-d8a" height="30" width="40" /></a>
 </p>
 
