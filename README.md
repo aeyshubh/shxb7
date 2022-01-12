@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devshub21?tab=repositories](https://github.com/devshub21?tab=repositories)
+- 👨‍💻 All of my projects are available at https://shxb7.github.io/portfolio/
 
 - 📝 I regularly write articles on [https://aceshubham.hashnode.dev/](https://aceshubham.hashnode.dev/)
 
