@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shxb7" alt="devshub21" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shxb7_" target="blank"><img src="https://img.shields.io/twitter/follow/devshub21?logo=twitter&style=for-the-badge" alt="devshub21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shxb7_" target="blank"><img src="https://img.shields.io/twitter/follow/shxb7_?logo=twitter&style=for-the-badge" alt="shxb7_" /></a> </p>
 
 - 🔭 I’m currently in my 2nd year B.E(CSE-ML-AI) at New L.J 
 
