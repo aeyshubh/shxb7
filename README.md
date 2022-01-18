@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Solidity,Javascript**
 
-- 🤝 I’m looking for help with **Machine Learning projects**
+- 🤝 I’m looking for help with **Blockchain Projects**
 
 - 👨‍💻 All of my projects are available at https://shxb7.github.io/portfolio/
 
