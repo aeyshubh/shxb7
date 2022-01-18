@@ -1,11 +1,11 @@
 <h1 align="center">Yo 👋, I'm Shubham Patel ,sin of kindness</h1>
 <h3 align="center">I go to hackathons cause it gives me feeling like i am in some anime world i.e Adventures</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devshub21&label=Profile%20views&color=0e75b6&style=flat" alt="devshub21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shxb7&label=Profile%20views&color=0e75b6&style=flat" alt="devshub21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshub21" alt="devshub21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shxb7" alt="devshub21" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/devshub21" target="blank"><img src="https://img.shields.io/twitter/follow/devshub21?logo=twitter&style=for-the-badge" alt="devshub21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shxb7_" target="blank"><img src="https://img.shields.io/twitter/follow/devshub21?logo=twitter&style=for-the-badge" alt="devshub21" /></a> </p>
 
 - 🔭 I’m currently in my 2nd year B.E(CSE-ML-AI) at New L.J 
 
